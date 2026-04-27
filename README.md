@@ -132,7 +132,7 @@ npm run dev
 docker compose up --build
 ```
 
-👉 Access the app at http://localhost:3000
+👉 Access the app at http://localhost:9002
 
 ---
 
@@ -168,16 +168,14 @@ Although implemented asynchronously, the architecture supports Kafka for:
 <div align="center">
 <table>
 <tr>
-<td width="50%"><img src="https://via.placeholder.com/600x350/0f172a/ffffff?text=Home+Page" alt="Home Page"></td>
-<td width="50%"><img src="https://via.placeholder.com/600x350/0f172a/ffffff?text=Course+Listing" alt="Course Listing"></td>
+
 </tr>
 <tr>
 <td><b>🏠 Home Page</b><br>Clean UI, featured courses, quick access</td>
 <td><b>📚 Course Listing</b><br>Paginated, filtered, cached responses</td>
 </tr>
 <tr>
-<td><img src="https://via.placeholder.com/600x350/0f172a/ffffff?text=AI+Recommendation+Page" alt="AI Recommendation Page"></td>
-<td><img src="https://via.placeholder.com/600x350/0f172a/ffffff?text=Admin+Dashboard" alt="Admin Dashboard"></td>
+
 </tr>
 <tr>
 <td><b>🤖 AI Recommendations</b><br>Gemini-powered personalized picks</td>
