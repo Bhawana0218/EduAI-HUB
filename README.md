@@ -132,7 +132,7 @@ npm run dev
 docker compose up --build
 ```
 
-👉 Access the app at http://localhost:9002
+👉 Access the app at http://localhost:9002 OR http://localhost:3000
 
 ---
 
@@ -163,7 +163,7 @@ Although implemented asynchronously, the architecture supports Kafka for:
 
 ---
 
-## 🖼️ UI / Screenshots
+## 🖼️ UI 
 
 <div align="center">
 <table>
